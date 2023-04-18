@@ -13,3 +13,5 @@
 ```
 https://github.com/mr-Prokofev/final-control-work.git
 ```
+2. Блок схема нарисована при помощи сайта: https://app.diagrams.net/ и экспортирована в формате *.jpeg*
+![diagramma](ArrayString.jpg)
